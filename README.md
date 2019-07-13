@@ -9,5 +9,5 @@ City of Toronto Police Cyclist Injury Raw Data http://data.torontopolice.on.ca/d
 - Updates:
 
 - July 13, 2019 
-  new data downloaded and saved to database file
-  notebook started with data cleaning and exploration
+  - new data downloaded and saved to database file
+  - notebook started with data cleaning and exploration
