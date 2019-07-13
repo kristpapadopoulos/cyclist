@@ -1,6 +1,4 @@
-### Cyclist
-
-Toronto cyclist injury dataset exploration
+### Toronto Cyclist Injury Dataset Exploration
 
 City of Toronto Police Cyclist Injury Dashboard http://data.torontopolice.on.ca/pages/cyclists
 
